@@ -3,7 +3,7 @@
 
 The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas in order to see how it all works together. 
 
-In this repository we describe thoroughly a data wrangling process ussing a significatively messed dataset.
+The dataset we are going to use is: [Shark Attacks](https://www.kaggle.com/teajay/global-shark-attacks/version/1)
 
 # Project: Data Cleaning and Manipulation with Pandas
 
