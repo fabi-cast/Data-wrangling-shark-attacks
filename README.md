@@ -1,6 +1,8 @@
 
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
+The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas in order to see how it all works together. 
+
 In this repository we describe thoroughly a data wrangling process ussing a significatively messed dataset.
 
 # Project: Data Cleaning and Manipulation with Pandas
